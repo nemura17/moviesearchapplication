@@ -1,4 +1,4 @@
-<b> You can preview it here </b> - https://moviesearchapplication.vercel.app/
+<b> You can view it here </b> - https://moviesearchapplication.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
